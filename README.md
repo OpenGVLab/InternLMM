@@ -1,2 +1,2 @@
 # InternLMM
-!(./multimodal_1.jpg)
+![](multimodal_1.jpg)
